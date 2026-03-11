@@ -1,0 +1,15 @@
+2026-03-10 16:08:13,472 | INFO | test_flights | Validate round trip search
+2026-03-10 16:08:14,489 | INFO | test_flights | Start full booking flow
+2026-03-10 16:08:16,594 | INFO | test_flights | Validate one way search
+2026-03-10 16:08:35,534 | INFO | FlightSearchPage | Clicked Search Flights
+2026-03-10 16:09:15,377 | INFO | FlightSearchPage | Clicked Search Flights
+2026-03-10 16:09:29,227 | INFO | FlightSearchPage | Clicked Search Flights
+2026-03-10 16:10:45,868 | INFO | test_flights | Validate round trip search
+2026-03-10 16:10:54,048 | INFO | FlightSearchPage | Clicked Search Flights
+2026-03-10 16:11:05,403 | INFO | test_flights | Start full booking flow
+2026-03-10 16:11:15,903 | INFO | FlightSearchPage | Clicked Search Flights
+2026-03-10 16:11:20,154 | INFO | FlightResultsPage | First result price: 
+2026-03-10 16:11:41,414 | INFO | BookingPage | Invoice page loaded
+2026-03-10 16:11:42,304 | INFO | BookingPage | Download invoice button clicked
+2026-03-10 16:11:47,305 | INFO | BookingPage | Invoice downloaded inside: C:\Users\bhash\PycharmProjects\CapstonProjectWiproTraining\reports\invoices
+2026-03-10 16:11:47,305 | INFO | test_flights | Invoice download triggered successfully
